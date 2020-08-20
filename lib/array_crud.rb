@@ -4,7 +4,7 @@ def create_an_empty_array
 
 end
 
-def create_an_array(name, number, pet, food)
+def create_an_array("name", "number", "pet", "food")
   ["name", "number", "pet", "food"]
 
 end
