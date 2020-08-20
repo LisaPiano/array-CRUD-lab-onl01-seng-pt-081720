@@ -5,7 +5,7 @@ def create_an_empty_array
 end
 
 def create_an_array(name, number, pet, food)
-  array.push(name, number, pet, food)
+  push(name, number, pet, food)
 
 end
 
